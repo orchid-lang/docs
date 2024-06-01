@@ -1,3 +1,9 @@
 site_name: Orchid Docs
 theme:
   name: material
+  palette:
+    scheme: slate
+    primary: custom
+
+extra_css:
+  - styles/main.css
